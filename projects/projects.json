@@ -2,31 +2,16 @@
   {
     "name": "Sistema de Mesa de Partes",
     "desc": "Este es un sistema de mesa de partes creado para gestionar el area administrativa de una institucion.",
-    "image": "mesapartes",
-    "category": "mern",
-    "links": {
-      "view": "https://instagramernstack.herokuapp.com/",
-      "code": "https://github.com/jigar-sable/instagram-mern"
-    }
+    "image": "mesapartes"
   },
   {
     "name": "Dashoard Analisis de Datos",
     "desc": "Este es un dashboard de analisis de datos usando Python y sus bibliotecas : pip install pandas , pip install sqlalchemy, pip install streamlit, pip install plotly, pip install pyodbc" ,
-    "image": "dashoard",
-    "category": "mern",
-    "links": {
-      "view": "https://flipkartwebs.herokuapp.com/",
-      "code": "https://github.com/jigar-sable/flipkart-mern"
-    }
+    "image": "dashoard"
   },
   {
     "name": "Pagina Web Institucional",
     "desc": "Este es una pagian web institucional",
-    "image": "pagina web",
-    "category": "mern",
-    "links": {
-      "view": "https://resumegenx.netlify.app/",
-      "code": "https://github.com/jigar-sable/resumegen"
-    }
+    "image": "pagina web"
   }
 ]
